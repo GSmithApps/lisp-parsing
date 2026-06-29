@@ -1,1 +1,1 @@
-# julialox
+This was originally a julia lox thing, but it isn't anymore. I need to rename all those files and folders
