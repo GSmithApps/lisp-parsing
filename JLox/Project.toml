@@ -1,0 +1,4 @@
+name = "JLox"
+uuid = "c7b6322e-4955-4f4e-94d8-4812935fe16f"
+authors = ["Grant Smith <14.gsmith.14@gmail.com>"]
+version = "0.1.0"

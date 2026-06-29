@@ -1,0 +1,28 @@
+
+Hey here's some english text that won't be transpiled
+
+| / print "Hi"
+
+| / print
+  | / + "Hi" "Emily"
+
+
+And some more English text!!!
+
+| / defun
+  | / factorial n
+  | / if
+    | / <= n 1
+    | 1
+    | / *
+      | n
+      | / factorial
+        | / - n 1
+
+| / factorial 2
+
+Also, the syntax highlighter needs to work too
+
+| / defun ( factorial n ) / if ( <= n 1 ) 1 / * n / factorial / - n 1
+
+|
